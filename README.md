@@ -68,7 +68,7 @@ Example:
 
 ## Project Structure
 
-```text
+```text id="ig0h74"
 Subdomain-enumerator/
 ├── subdomain_enumerator.py
 ├── README.md
