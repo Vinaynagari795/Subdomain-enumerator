@@ -2,7 +2,7 @@
 
 ## Description
 
-A Python-based subdomain enumeration tool that discovers active subdomains using multithreaded HTTP requests and a wordlist-based approach. Discovered subdomains are saved to an output file for further analysis.
+A Python-based subdomain enumeration tool that discovers active subdomains using multithreaded HTTP requests and a wordlist-based approach.
 
 ## Features
 
