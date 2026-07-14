@@ -29,7 +29,7 @@ cd Subdomain-enumerator
 ## Requirements
 
 ```bash
-pip install requests
+pip3 install requests
 ```
 
 ## Usage
