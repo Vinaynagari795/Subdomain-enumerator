@@ -35,7 +35,7 @@ pip install requests
 ## Usage
 
 ```bash
-python3 subdomain_enumarator.py
+python3 subdomain_enumerator.py
 ```
 
 Example:
@@ -70,7 +70,7 @@ Example:
 
 ```text
 Subdomain-enumerator/
-├── subdomain_enum.py
+├── subdomain_enumerator.py
 ├── README.md
 └── screenshots/
     └── scan-result.png
